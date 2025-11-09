@@ -1,0 +1,87 @@
+[
+    {
+        "techSpecs": [
+            {"Audio Technology": [
+                "Custom-tuned 40mm Resonance™ drivers for deep bass.",
+                "Ultra-low distortion signal processing.",
+                "Adaptive Sound Sculpting™ — real-time EQ.",
+                "Spatial Audio Calibration with dynamic head tracking.",
+                "Natural Voice Isolation for calls, focus, and immersive listening.",
+                "Pressure-balancing acoustic vents for long-wear comfort."
+            ]},
+            {"Intelligence": [
+                "Dual noise-targeting microphones.",
+                "Internal ear-position mic for personalized audio tuning.",
+                "Proximity & motion sensors to detect wear and usage.",
+                "Gesture-aware force sensor for effortless control.",
+                "Accelerometer-assisted voice capture for clarity on the move."
+            ]},
+            {"Power": [
+                "Custom-designed <b>R2 Sound Core</b> chip.",
+                "Advanced audio algorithms tuned for emotional clarity.",
+                "Onboard neural audio engine for Spatial Audio and Adaptive EQ."
+            ]},
+            {"Controls": [
+                "Tap once to play/pause or answer a call.",
+                "Tap twice to skip forward or end a call.",
+                "Tap three times to rewind.",
+                "Press and hold to access voice assistant.",
+                "Automatic mute when removed, smart resume when worn."
+            ]},
+            {"Built for the Elements": [
+                "Rated <b>IPX4</b> for sweat and weather resistance.",
+                "Designed for long sessions, light activity, or relaxed stillness."
+            ]},
+            {"Battery": [
+                "Up to <b>36 hours</b> total listening time with case.",
+                "Up to <b>6.5 hours</b> on a single charge.",
+                "Fast charge: <b>10 minutes = 2 hours of play.</b>",
+                "USB-C charging + Qi-compatible wireless charging.",
+                "LED status light + Find My compatible tone alert."
+            ]},
+            {"Connectivity": [
+                "Bluetooth® 5.3 low-latency audio.",
+                "Multipoint connection with auto handoff.",
+                "Seamless pairing across all your devices."
+            ]},
+            {"Sustainability & Materials": [
+                "100% recycled aluminum in internal frames.",
+                "Bio-based mesh ear padding.",
+                "Rare earth magnets sourced from reclaimed materials.",
+                "Plastic-free, fiber-based packaging.",
+                "Assembled in Zero Waste-certified facilities."
+            ]}
+        ],
+        "compare": {
+            "name": "Aura Pro II",
+            "image": "src/assets/images/AuraProII.png",
+            "price": "$320",
+            "processor": "R1 Chip",
+            "ANC": "2x more Active Noise Cancellation",
+            "userSound": "Personalized Spatial Audio",
+            "audio": "Lossless Audio",
+            "protection": "None",
+            "touch": "None",
+            "battery": "Up to 17 hours of listening",
+            "waterRes": "None",
+            "microphone": "5 microphones total"
+        }
+
+    },
+    {
+        "compare": {
+            "name": "Flow II",
+            "image": "src/assets/images/flow2.png",
+            "price": "$160",
+            "processor": "R2 Chip",
+            "ANC": "Active Noise Cancellation",
+            "userSound": "Personalized Spatial Audio",
+            "audio": "None",
+            "protection": "Hearing Test and Hearing Protection",
+            "touch": "Touch sensor",
+            "battery": "Up to 6 hours of listening",
+            "waterRes": "Water resistant",
+            "microphone": "Dual beamforming microphones"
+        }
+    }
+]

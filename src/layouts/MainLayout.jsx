@@ -1,7 +1,7 @@
 import { Outlet, useLocation } from 'react-router-dom';
 import { useMediaQuery } from 'react-responsive'
 import Navbar from '../components/Navbar';
-import MobileNavbar from '../components//MobileNavbar'
+import MobileNavbar from '../components//MobileNavBar'
 import Footer from '../components/Footer';
 import MobileFooter from '../components/MobileFooter';
 

@@ -12,9 +12,9 @@ const ImagesCarousel = () => {
     const divRef = useRef(null);
 
     useEffect(() => {
-        const imgWidth = divRef.current.children[0].clientWidth + 16;
-        const carouselAnim = setInterval( () => {
 
+        const carouselAnim = setInterval( () => {
+            const imgWidth = divRef.current.children[0].clientWidth + 16;
             if ( ((divRef.current.scrollLeft) / (imgWidth * (images.length - 3))).toFixed(2) >= 0.99 ) {
                 divRef.current.scrollLeft = 0;
             } else {
